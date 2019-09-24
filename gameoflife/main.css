@@ -1,0 +1,15 @@
+.cord {
+    height: 4em;
+    width: 4em;;
+    outline: .1em solid black;
+    display: inline-block;
+}
+
+.live {
+    background-color: black;
+}
+
+#start {
+    margin-top: 1em;
+    width: 10em;
+}

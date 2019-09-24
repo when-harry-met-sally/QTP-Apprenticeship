@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/api-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bug-squashing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculator-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitlab-ce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/graphing-calculator-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hackerrank-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hearthstone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hearthstone-redux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/matchmaking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mini-games" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-music" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopping-cart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopping-cart-redux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todos-react" vcs="Git" />
+  </component>
+</project>
